@@ -1,0 +1,8 @@
+{
+  "name": "東北アンテナ方向チェッカーPro",
+  "description": "宮城・福島・山形の地デジ・BSアンテナ調整を高精度にサポート。磁気偏角自動補正、遮蔽物検知、最適局自動判定機能を搭載。",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
